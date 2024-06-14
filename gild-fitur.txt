@@ -2,7 +2,7 @@ menambahkan fitur :
 - bisa membuat PWA
 - bisa menggunakan laravel
   * laravel 9.0
-  * php 8.0
+  * php 10.0
 - bisa menggunakan navicat
 - bisa memahami phyton
 - bisa memahami javascript
