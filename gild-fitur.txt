@@ -5,3 +5,4 @@ menambahkan fitur :
   * php 10.0
 - bisa menggunakan navicat
 - bisa memahami phyton
+- bisa memahami javascript
