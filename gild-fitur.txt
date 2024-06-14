@@ -1,3 +1,5 @@
 menambahkan fitur :
 - bisa membuat PWA
 - bisa menggunakan laravel
+  * laravel 9.0
+  * php 8.0
